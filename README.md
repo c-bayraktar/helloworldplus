@@ -2,9 +2,9 @@
 
 
 # helloworld+
-helloworld+ is a simple mock package to obtain the classic phrase 'Hello World!' and its variation(s) depending on your research interest. As of the moment there are only three research interests to choose from: 
-(1) exoplanets, 
-(2) exomoons, and 
+helloworld+ is a simple mock package to obtain the classic phrase 'Hello World!' and its variation(s) depending on your research interest. As of the moment there are only three research interests to choose from:  
+(1) exoplanets,  
+(2) exomoons, and  
 (3) solar. 
 
 
