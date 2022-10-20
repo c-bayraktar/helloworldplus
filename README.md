@@ -2,6 +2,7 @@
 
 [![pip](https://img.shields.io/badge/pip-install%20helloworldplus-blue.svg)](https://test.pypi.org/project/example-package-c-bayraktar/)
 [![Documentation](https://img.shields.io/badge/Documentation-%E2%9C%93-blue.svg)](https://helloworldplus.readthedocs.io/en/latest/)
+[![Colab](https://img.shields.io/badge/Colab-%E2%9C%93-blue.svg)](https://colab.research.google.com/github/c-bayraktar/helloworldplus/blob/main/test.ipynb)
 
 
 # helloworld+
